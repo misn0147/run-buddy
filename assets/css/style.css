@@ -8,7 +8,7 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
     }
-   
+
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -77,11 +77,11 @@ section {
     background-position: center;
     position: relative;
 }
- 
+
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
- }
+}
 .hero-form p {
     margin: 5px 0 15px 0;
 }
@@ -140,7 +140,7 @@ section {
 }
 .steps img {
     width: 15%;
-      margin: 10px 0;
+    margin: 10px 0;
 }
 .steps h3 {
     color: #024e76;
